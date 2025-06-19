@@ -1,10 +1,4 @@
-## Hi there 👋
-
-I am Radman! I am Master's student in UBC. I did my Bachelor's degree, also at UBC, with a combined major of Computer Science in Biology. My research was focused on drug discovery using machine learning and advacned simulations. Currently, I am working on teaching humanoids how to walk. 
-
-Things I use: 
-
-
+## Hi! I am Radman 👋
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
 ![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat-square)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
@@ -22,6 +16,14 @@ Things I use:
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
 ![Prettier Badge](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=fff&style=flat-square)
 
+I am Master's student in UBC. I did my Bachelor's degree, also at UBC, with a combined major of Computer Science in Biology. My research was focused on drug discovery using machine learning and advacned simulations. Currently, I am working on teaching humanoids how to walk. 
+
+
+- 🧬 Building **agent-based disease models** with RL to simulate outbreaks and interventions
+- 🧠 Ran billions of simulations using UBC’s supercomputing cluster to train RL agents under variable infection rates and stochasticity levels.
+-	🔗 Integrated large-scale simulations with real-time dashboards for tracking agent learning progress, infection metrics, and policy shifts.
+- 🚀 Passionate about **space, synthetic biology**, and any system with rules and rebels
+- 🔄 Believer in **experiments > assumptions**, both in science and in code
 
 
 
