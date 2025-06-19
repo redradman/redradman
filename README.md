@@ -22,7 +22,7 @@ I am Master's student in UBC. I did my Bachelor's degree, also at UBC, with a co
 - 🧬 Built **agent-based disease models** with reinforcement learning to simulate outbreaks and interventions
 - 🧠 Ran billions of simulations using UBC’s supercomputing cluster to train RL agents under variable infection rates and stochasticity levels.
 -	🔗 Integrated large-scale simulations with real-time dashboards for tracking agent learning progress, infection metrics, and policy shifts.
-- 🚀 Passionate about *RL, LLMs, Transformer, synthetic biology**, and any system with rules and rebels
+- 🚀 Passionate about *RL, LLMs, Transformer, synthetic biology*, and any system with rules and rebels
 
 
 
