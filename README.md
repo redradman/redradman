@@ -16,12 +16,12 @@
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
 ![Prettier Badge](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=fff&style=flat-square)
 
-I am Master's student in UBC. I did my Bachelor's degree, also at UBC, with a combined major of Computer Science in Biology. Currently, my research is focused on teaching humanoid robots to walk robustly using reinforcement learning. Previously, my research was focused on drug discovery using machine learning and advacned simulations. 
+I am Master's student in UBC. I did my Bachelor's of Science degree, also at UBC, with a combined major of Computer Science in Biology. Currently, my research is focused on teaching humanoid robots to walk robustly using reinforcement learning. Previously, my research was focused on drug discovery using machine learning and advacned simulations. 
 
-- 🧬 Built **agent-based disease models** with reinforcement learning to simulate outbreaks and interventions
-- 🧠 Ran billions of simulations using UBC’s supercomputing cluster to train RL agents under variable infection rates and stochasticity levels.
--	🔗 Integrated large-scale simulations with real-time dashboards for tracking agent learning progress, infection metrics, and policy shifts.
-- 🚀 Passionate about *RL, LLMs, Transformer, synthetic biology*, and any system with rules and rebels.
+- 🧬 Built **agent-based disease models** with reinforcement learning to simulate outbreaks and interventions with a focused on reward enginnering. *Coming Soon, under review*
+- 🧠 Ran 80B+ simulations on UBC’s supercomuter cluster to use monte carlo simulations as means of finding stable confirmations in protein structure in adversial environments. 
+-	🔗 Recently, working on hierarchical reinforcement learning with a low level locomotion policy and a high level planner. 
+- 🚀 Passionate about *Reinforcement Learning (RL) and Diffusion Models*.
 
 
 
