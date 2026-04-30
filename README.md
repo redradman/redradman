@@ -24,7 +24,7 @@ A few things I've worked on:
 - 🦠 **ContagionRL (accepted to TMLR 2026).** Agent-based epidemiological models trained with RL to study outbreaks and intervention design. Accepted to TMLR, with Prof. Daniel Coombs.
 - 🤖 **Hierarchical locomotion in humanoid robots (accepted to AI/CRV 2026).** Low-level policies coordinated by a high-level terrain planner, at UBC's MOCCA lab with Prof. Michiel van de Panne.
 - 🧬 **Protein conformation search (🥈 Silver Medal at iGEM).** 80B+ Monte Carlo simulations on UBC's Sockeye cluster to find stable conformations under adversarial conditions.
-- 📰 **NLP for entrepreneurship (under peer-review).** Zero-shot and few-shot classification pipelines at UBC Sauder with Prof. Beausoleil. Under review.
+- 📰 **NLP for entrepreneurship.** Zero-shot and few-shot classification pipelines at UBC Sauder with Prof. Beausoleil. Under review.
 
 🔬 Currently a SPAR fellow working on infrabayesian RL for Newcomb-like problems. Previously a BlueDot Impact AI Safety fellow.
 
