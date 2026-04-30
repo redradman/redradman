@@ -17,15 +17,18 @@
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
 ![Prettier Badge](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=fff&style=flat-square)
 
-I am Master's student in UBC. I did my Bachelor's of Science degree, also at UBC, with a combined major of Computer Science in Biology. Currently, my research is focused on **teaching humanoid robots to walk robustly using reinforcement learning**. Previously, my research was focused on drug discovery using machine learning and advanced simulations. 
+I recently finished a combined BSc in Computer Science and Biology at UBC, along with a Master of Management. I work on reinforcement learning, mostly around reward engineering and learning under constraints, with side interests in computational biology and AI safety.
 
-- 🧬 Built **agent-based disease models** with reinforcement learning to simulate outbreaks and interventions with a focused on reward enginnering. *Coming Soon, under review*
-- 🧠 Ran 80B+ simulations on UBC’s supercomuter cluster to use monte carlo simulations as means of finding stable confirmations in protein structure in adversial environments. 
--	🔗 Recently, working on hierarchical reinforcement learning with a low level locomotion policy and a high level planner. 
-- 🚀 Passionate about *Reinforcement Learning (RL) and Diffusion Models*.
+A few things I've worked on:
 
+- 🦠 **ContagionRL (accepted to TMLR 2026).** Agent-based epidemiological models trained with RL to study outbreaks and intervention design. Accepted to TMLR, with Prof. Daniel Coombs.
+- 🤖 **Hierarchical locomotion in humanoid robots (accepted to AI/CRV 2026).** Low-level policies coordinated by a high-level terrain planner, at UBC's MOCCA lab with Prof. Michiel van de Panne.
+- 🧬 **Protein conformation search (🥈 Silver Medal at iGEM).** 80B+ Monte Carlo simulations on UBC's Sockeye cluster to find stable conformations under adversarial conditions.
+- 📰 **NLP for entrepreneurship (under peer-review).** Zero-shot and few-shot classification pipelines at UBC Sauder with Prof. Beausoleil. Under review.
 
+🔬 Currently a SPAR fellow working on infrabayesian RL for Newcomb-like problems. Previously a BlueDot Impact AI Safety fellow.
 
+🌐 More at [radman.dev](https://radman.dev).
 
 
 
