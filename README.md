@@ -26,7 +26,7 @@ A few things I've worked on:
 - 🧬 **Protein conformation search (🥈 Silver Medal at iGEM).** 80B+ Monte Carlo simulations on UBC's Sockeye cluster to find stable conformations under adversarial conditions.
 - 📰 **NLP for entrepreneurship.** Zero-shot and few-shot classification pipelines at UBC Sauder. Under review.
 
-🔬 Currently a SPAR fellow working on infrabayesian RL for Newcomb-like problems. Previously a BlueDot Impact AI Safety fellow.
+🔬 Currently a SPAR fellow working on infrabayesian RL for Newcomb-like problems (paper under review). Previously a BlueDot Impact AI Safety fellow.
 
 🌐 More at [radman.dev](https://radman.dev).
 
